@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.env
+state.json
+*.cookies
+.streamlit/secrets.toml

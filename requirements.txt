@@ -1,0 +1,8 @@
+numpy>=1.26.0
+pandas>=2.1.0
+scipy>=1.11.0
+plotly>=5.18.0
+streamlit>=1.30.0
+pydantic>=2.5.0
+openai>=1.10.0
+playwright>=1.40.0
